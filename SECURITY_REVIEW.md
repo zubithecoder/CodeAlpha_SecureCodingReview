@@ -13,7 +13,9 @@ The initial Bandit scan identified five security findings, including hardcoded c
 
 Manual inspection also identified unsafe file access and overly broad exception handling.
 
-The application should not be considered production-ready until the identified vulnerabilities are remediated.
+A secure version of the application was then created to address the identified security weaknesses.
+
+The remediated application was scanned again with Bandit and returned no security findings.
 
 ---
 
