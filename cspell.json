@@ -1,0 +1,21 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "hashlib",
+    "usedforsecurity",
+    "hexdigest",
+    "HMAC",
+    "PBKDF2",
+    "SHA256",
+    "urandom",
+    "nosec",
+    "Bandit",
+    "CWE",
+    "SQLite",
+    "SQL",
+    "README",
+    "CodeAlpha"
+  ],
+  "ignorePaths": ["bandit_report.txt", "secure_bandit_report.txt", ".venv/**"]
+}
