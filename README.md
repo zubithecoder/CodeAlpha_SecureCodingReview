@@ -1,6 +1,6 @@
 # Secure Coding Review
 
-A Python security review project completed as part of the CodeAlpha Cyber Security Internship.
+A Python security review project completed as part of my Internship.
 
 ## Project Overview
 
